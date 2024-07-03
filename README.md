@@ -1,7 +1,7 @@
 # BlogList App
 
 Deployed with Render: https://bloglist-zniw.onrender.com/blogs
-
+ 
 The BlogList App allows logged-in users to save, view and comment on blogs they find interesting.
 
 The app was created as a series of exercises in the Full Stack Open MOOC course.
